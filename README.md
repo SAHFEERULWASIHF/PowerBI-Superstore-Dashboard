@@ -52,7 +52,7 @@ This project is a Power BI dashboard created from the **Sample Superstore datase
 ## 📂 Download the Dashboard
 
 You can download and explore the `.pbix` file:
-[Download PBIX](./PowerBI_Superstore_Dashboard.pbix)
+[Download PBIX PowerBI file](./PowerBI_Superstore_Dashboard.pbix)
 
 Or view the exported PDF:
 [View PDF](./Export/SuperstoreDashboard.pdf)
